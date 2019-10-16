@@ -33,7 +33,7 @@ Wes Bos has a great video series on flexbox that is entirely free and I recommen
 - Watch the series!
 
 # Exercise Results
-
+ - Created account and watched the series.
 # Further Reading
 
 - [Flebox tutorial on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
