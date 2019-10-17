@@ -4,7 +4,7 @@ let courseCompletion;
 let finalScore;
 
 let winningNumbers;
-age = 24;
+age = String(24);
 courseCompletion = Boolean(1);
 finalScore = null;
 
@@ -19,6 +19,7 @@ console.log("Winning Numbers:", winningNumbers);
 courseCompletion = String(1);
 finalScore = Boolean("");
 age = Number(25);
+winningNumbers = Number(50);
 
 console.log("Age:", age);
 console.log("First Name:", firstName);
